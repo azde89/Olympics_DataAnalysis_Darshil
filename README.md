@@ -1,0 +1,1 @@
+Goal of this project is to use Azure data services such as Azure Data Factory, Azure Data bricks, Azure Synapse analytics to work upon this dataset taken from Kaggle and derive meaningful insights from the data through an end-to-end azure data engineering project.
